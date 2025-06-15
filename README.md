@@ -1,16 +1,36 @@
-## Hi there 👋
+# Noble Nomadic
 
-<!--
-**NobleNomadic/NobleNomadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ```> whoami```
+Hi! I'm Noble Nomadic. I am a high school student interested in cybersecurity, python, and Linux.
+I love learning about these in my spare time and creating my own projects.
 
-Here are some ideas to get you started:
+## > ```ls /projects```
+- Building lab environments and tools for malware testing and analysing
+- Kiwi cybersecurity toolkit
+- Setting up personal website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ```> history | grep hobbies```
+- Linux
+- Building my own version of hacking tools
+- Malware analysis and reverse engineering
+- Building labs with virtualisation and hacking them
+
+## ```> cat ~/Stack.txt```
+### Hacking Tools
+- Python with networking modules such as socket, scapy, etc
+
+### Labs
+- Setup with virtualbox
+- Using Windows 10 or 7 as general targets
+- Using poorly configured Debian servers with apache, OpenSSH, and VSFTPD servers designed to be attacked
+
+### Malware Analysis
+- Analysing hexes with xxd and custom C tools
+- Running inside virtual box
+
+## ```> man contact```
+If you want to talk to me about anything, please send an email to noblenomadic@proton.me.
+
+## Note on my Contributions
+Note that my github page will show very few contributions. I do most work on my repositories locally and push changes from there.
+Any contributions in my repositories under "Alex", "Nomad", or "NobleNomadic" are likely from me.
