@@ -4,7 +4,7 @@
 Hi! I'm Noble Nomadic. I am a high school student interested in cybersecurity, python, and Linux.
 I love learning about these in my spare time and creating my own projects.
 
-## > ```ls /projects```
+## ```> ls /projects```
 - Building lab environments and tools for malware testing and analysing
 - Kiwi cybersecurity toolkit
 - Setting up personal website
