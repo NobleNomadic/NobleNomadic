@@ -30,7 +30,4 @@ I love learning about these in my spare time and creating my own projects.
 
 ## ```> man contact```
 If you want to talk to me about anything, please send an email to noblenomadic@proton.me.
-
-## Note on my Contributions
-Note that my github page will show very few contributions. I do most work on my repositories locally and push changes from there.
-Any contributions in my repositories under "Alex", "Nomad", or "NobleNomadic" are likely from me.
+Feel free to ask about anything!
